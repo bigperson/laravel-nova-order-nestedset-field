@@ -18,7 +18,7 @@
   ],
   "require": {
     "php": ">=7.1.0",
-    "kalnoy/nestedset": "^4.3.5"
+    "kalnoy/nestedset": "4.*|5.*"
   },
   "require-dev": {
     "friendsofphp/php-cs-fixer": "~2.15.0"
